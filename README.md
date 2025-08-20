@@ -3,6 +3,7 @@
 ## 🚀 Cara Menjalankan Project
 
 ### Struktur Folder
+1. Masuk ke folder `root`
    ```bash
     project-root/
     │── frontend/      # React + TypeScript (Vite)
@@ -10,14 +11,14 @@
     │── README.md
 
 ### Jalankan Frontend
-Masuk ke folder `frontend`
+1. Masuk ke folder `frontend`
    ```bash
    cd frontend
    npm install
    npm run dev
 
 ### Jalankan Backend
-Masuk ke folder `backend`
+1. Masuk ke folder `backend`
    ```bash
    cd backend
    go run main.go
