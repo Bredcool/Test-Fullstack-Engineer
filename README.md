@@ -11,14 +11,14 @@
     │── README.md
 
 ### Jalankan Frontend
-1. Masuk ke folder `frontend`
+2. Masuk ke folder `frontend`
    ```bash
    cd frontend
    npm install
    npm run dev
 
 ### Jalankan Backend
-1. Masuk ke folder `backend`
+3. Masuk ke folder `backend`
    ```bash
    cd backend
    go run main.go
